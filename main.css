@@ -1,0 +1,23 @@
+.heading {
+     text-align: center;
+}
+
+.input-field {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     margin: 20px;
+     gap: 30px;
+}
+
+.Buttons {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     margin: 20px;
+     gap: 10px;
+}
+
+
